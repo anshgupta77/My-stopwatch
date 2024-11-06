@@ -9,7 +9,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg,yellow,green);
+    background: linear-gradient(#410358,#4700bc);
     row-gap: 30px;
     
 }
